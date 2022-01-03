@@ -1,4 +1,6 @@
-# LASTFM-EDA
+![HeaderBanner](https://raw.githubusercontent.com/Rohan-Dawar/LASTFM-EDA/main/lfmeda.png)
+
+# Rohan Dawar's Last.fm Exploratory Data Analysis
 
 # This repo contains the .ipynb (Jupyter Notebook) of my last.fm exploratory data analysis (LFM-EDA).
 # The .ipynb requires a lastfm API key to run, and fetches all tracks and artist information from my last.fm page.
